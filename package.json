@@ -28,6 +28,7 @@
     "zod": "^3.24.1"
   },
   "devDependencies": {
+    "prisma": "^6.8.2",
     "@types/node": "^22.10.2",
     "@types/node-telegram-bot-api": "^0.64.7",
     "@types/uuid": "^10.0.0",
